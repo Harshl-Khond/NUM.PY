@@ -1,0 +1,4 @@
+For creating array : a=np.array([1,2,3,4,5])
+for checking type of array : type(a)
+
+The array object in NumPy is called ndarray.
